@@ -7,3 +7,5 @@ Just for me to learn tools. Trying to predict stock market ("Open")values (MS) w
 Image from Maintext
 
 For anyone reading this. Sorry for the spelling mistakes that might be there. It wasn't a priority to me as this is just a project for me to learn ml Tools.
+
+inspired/base by https://www.youtube.com/watch?v=QIUxPv5PJOY&list=WL&index=7&t=225s
