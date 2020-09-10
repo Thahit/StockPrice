@@ -4,7 +4,7 @@ Working with StockPrices
 # BuyOrSell
 Testing Stock analysis methods I find to see if they work.
 Methods:
-- useng SMA(short moving average) https://www.dummies.com/personal-finance/investing/stocks-trading/how-to-interpret-and-use-moving-averages-in-trading/
+- using SMA(short moving average) https://www.dummies.com/personal-finance/investing/stocks-trading/how-to-interpret-and-use-moving-averages-in-trading/
 
 
 # Maintext/StockPredictionMultipleInputs
