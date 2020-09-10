@@ -1,6 +1,12 @@
 # StockPrice
 Working with StockPrices
 
+# BuyOrSell
+Testing Stock analysis methods I find to see if they work.
+Methods:
+- useng SMA(short moving average) https://www.dummies.com/personal-finance/investing/stocks-trading/how-to-interpret-and-use-moving-averages-in-trading/
+
+
 # Maintext/StockPredictionMultipleInputs
 Just for me to learn tools. Trying to predict stock market ("Open")values (MS) with data from yahoo. The data I for prediction is the opening value, closing value... of the past 60 days. Using a LSTM-NN for doing the predictions.
 - Maintext takes the data from a single stock to predict future values
