@@ -7,6 +7,7 @@ Just for me to learn tools. Trying to predict stock market ("Open")values (MS) w
 - StockPredictionMultipleInputs Uses Apple and HP data in combination with MS data to predict the price of MS
 
 ![GitHub Logo](/Images/PredCompare.png)
+
 Image from Maintext
 
 inspired/base by https://www.youtube.com/watch?v=QIUxPv5PJOY&list=WL&index=7&t=225s
