@@ -14,7 +14,7 @@ inspired/base by https://www.youtube.com/watch?v=QIUxPv5PJOY&list=WL&index=7&t=2
 
 
 # BuyOrSell
-Testing Stock analysis methods I find to see if they work.
+Testing Stock analysis methods I find, to see if they work.
 Methods:
 - using SMA(short moving average) https://www.dummies.com/personal-finance/investing/stocks-trading/how-to-interpret-and-use-moving-averages-in-trading/
 ![GitHub Logo](/Images/BuyOrSellMethod1Screen.PNG)
