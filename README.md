@@ -6,7 +6,7 @@ Just for me to learn tools. Trying to predict stock market ("Open")values (MS) w
 - Maintext takes the data from a single stock to predict future values
 - StockPredictionMultipleInputs Uses Apple and HP data in combination with MS data to predict the price of MS
 
-![GitHub Logo](/Images/PredCompare.png)
+![](/Images/PredCompare.png)
 
 Image from Maintext
 
@@ -17,7 +17,7 @@ inspired/base by https://www.youtube.com/watch?v=QIUxPv5PJOY&list=WL&index=7&t=2
 Testing Stock analysis methods I find, to see if they work.
 Methods:
 - using SMA(short moving average) https://www.dummies.com/personal-finance/investing/stocks-trading/how-to-interpret-and-use-moving-averages-in-trading/
-![GitHub Logo](/Images/BuyOrSellMethod1Screen.PNG)
+![](/Images/BuyOrSellMethod1Screen.PNG)
 
 example
 
