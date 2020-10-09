@@ -17,9 +17,12 @@ inspired/base by https://www.youtube.com/watch?v=QIUxPv5PJOY&list=WL&index=7&t=2
 Testing Stock analysis methods I find, to see if they work.
 Methods:
 - using SMA(short moving average) https://www.dummies.com/personal-finance/investing/stocks-trading/how-to-interpret-and-use-moving-averages-in-trading/
+
+example:
+
 ![](/Images/BuyOrSellMethod1Screen.PNG)
 
-example
+
 
 
 For anyone reading this. Sorry for the spelling mistakes that might be there. It wasn't a priority to me as this is just a project for me to learn ml Tools.
