@@ -1,6 +1,6 @@
 # BuyOrSell
 Testing Stock analysis methods I find, to see if they work.<br>
-I decided to sepperate the methods, as one big Notebook is not very userfriendly.
+I decided to sepperate the methods, as one big Notebook(BuyOrSell) is not very userfriendly. It will not get updated if changed will be made to the methods/new methods are added.
 Methods:
 - using SMA(short moving average) https://www.dummies.com/personal-finance/investing/stocks-trading/how-to-interpret-and-use-moving-averages-in-trading/
 - Zero crosses https://www.ig.com/en-ch/trading-strategies/macd-trading-strategy-190610#:~:text=The%20strategy%20is%20to%20buy,the%20signals%20issued%20too%20late.
