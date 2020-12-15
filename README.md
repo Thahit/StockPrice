@@ -25,5 +25,5 @@ example(SMA):
 
 
 
-
+Unfortunately, You cannot see the interactive Bokeh visualisations within github, you will have to ru nthe code yourself  to see the results.
 For anyone reading this. Sorry for the spelling mistakes that might be there. It wasn't a priority to me as this is just a project for me to learn ml Tools.
