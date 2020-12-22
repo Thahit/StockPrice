@@ -1,17 +1,6 @@
 # StockPrice
 Working with StockPrices
 
-## StockPrice:Maintext/StockPredictionMultipleInputs
-Just for me to learn tools. Trying to predict stock market ("Open")values (MS for example) with data from yahoo. The data I for prediction is the opening value, closing value... of the past 60 days. Using a LSTM-NN for doing the predictions.
-- Maintext takes the data from a single stock to predict future values
-- StockPredictionMultipleInputs Uses Apple and HP data in combination with MS data to predict the price of MS
-
-![](/Images/PredCompare.png)
-
-Image from Maintext
-
-inspired/base by https://www.youtube.com/watch?v=QIUxPv5PJOY&list=WL&index=7&t=225s
-
 
 ## BuyOrSell
 Testing Stock analysis methods I find, to see if they work.
@@ -23,6 +12,17 @@ example(SMA):
 
 ![](/Images/BuyOrSellMethod1Screen.PNG)
 
+
+## StockPrice:Maintext/StockPredictionMultipleInputs
+Just for me to learn tools. Trying to predict stock market ("Open")values (MS for example) with data from yahoo. The data I for prediction is the opening value, closing value... of the past 60 days. Using a LSTM-NN for doing the predictions.
+- Maintext takes the data from a single stock to predict future values
+- StockPredictionMultipleInputs Uses Apple and HP data in combination with MS data to predict the price of MS
+
+![](/Images/PredCompare.png)
+
+Image from Maintext
+
+inspired/base by https://www.youtube.com/watch?v=QIUxPv5PJOY&list=WL&index=7&t=225s
 
 
 Unfortunately, You cannot see the interactive Bokeh visualisations within github, you will have to run the code yourself to see the results.<br>
