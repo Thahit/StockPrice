@@ -1,5 +1,5 @@
 # BuyOrSell
-Testing Stock analysis methods I find, to see if they work. But they are simble and are not expected to have great results. It is more of a programming exercice / getting experience, working with stock data and getting to know technical indicators. <br>
+Testing Stock analysis methods I find, to see if they work. But they are simble and are not expected to have great results. It is more of a programming exercice / getting experience working with stock data and getting to know technical indicators. <br> Per Efficient Market Hypothesis it is not possible to generate value with these kinds of analysis, and studies show that most markets atleast have the weak market efficiency, atleast after adding transaktion costs(Financial Economics (BOEC0212)).
 
 Methods:
 - 1. using SMA(short moving average) https://www.dummies.com/personal-finance/investing/stocks-trading/how-to-interpret-and-use-moving-averages-in-trading/
